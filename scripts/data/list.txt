@@ -1,0 +1,5 @@
+atoi
+example
+memcpy
+strcpy
+strtol
