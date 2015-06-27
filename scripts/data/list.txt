@@ -1,3 +1,4 @@
+array_size
 atoi
 example
 memcpy

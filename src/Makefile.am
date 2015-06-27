@@ -2,6 +2,9 @@ AM_CFLAGS =
 AM_LDFLAGS =
 bin_PROGRAMS =
 
+bin_PROGRAMS += array_size
+array_size_SOURCES = array_size.c
+
 bin_PROGRAMS += atoi
 atoi_SOURCES = atoi.c
 
