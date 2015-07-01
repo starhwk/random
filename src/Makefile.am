@@ -14,6 +14,9 @@ example_SOURCES = example.c
 bin_PROGRAMS += memcpy
 memcpy_SOURCES = memcpy.c
 
+bin_PROGRAMS += run_length_encoding
+run_length_encoding_SOURCES = run_length_encoding.c
+
 bin_PROGRAMS += strcpy
 strcpy_SOURCES = strcpy.c
 

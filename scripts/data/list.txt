@@ -2,5 +2,6 @@ array_size
 atoi
 example
 memcpy
+run_length_encoding
 strcpy
 strtol
