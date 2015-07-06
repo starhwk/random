@@ -20,5 +20,8 @@ run_length_encoding_SOURCES = run_length_encoding.c
 bin_PROGRAMS += strcpy
 strcpy_SOURCES = strcpy.c
 
+bin_PROGRAMS += string_reverse
+string_reverse_SOURCES = string_reverse.c
+
 bin_PROGRAMS += strtol
 strtol_SOURCES = strtol.c

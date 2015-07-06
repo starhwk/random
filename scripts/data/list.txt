@@ -4,4 +4,5 @@ example
 memcpy
 run_length_encoding
 strcpy
+string_reverse
 strtol
