@@ -5,7 +5,7 @@ static char *strcpy(char *dest, const char *src)
 {
 	char *res = dest;
 
-	while (*dest++ = *src++);
+	while ((*dest++ = *src++));
 	*dest = '\0';
 
 	return res;
