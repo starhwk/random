@@ -7,7 +7,7 @@ static int array[128];
 
 int main(int argc, char *argv[])
 {
-	printf("array_size = %d\n", ARRAY_SIZE(array));
+	printf("array_size = %lu\n", ARRAY_SIZE(array));
 
 	return 0;
 }
