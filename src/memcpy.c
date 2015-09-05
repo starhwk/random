@@ -13,7 +13,7 @@ static void *memcpy(void *dest, const void *src, size_t n)
 
 int main(int argc, char *argv[])
 {
-	int *dest, *res;
+	char *dest;
 	unsigned int n = 0;
 
 	if (argc != 2) {
